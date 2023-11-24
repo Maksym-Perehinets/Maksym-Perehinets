@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maksym-Perehinets
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning AWS, Ansible, Docker, Teraform
+- 💞️ I’m looking to collaborate on any DevOps projects
 - 📫 How to reach me supercomf128@gmail.com
 
 <!---
